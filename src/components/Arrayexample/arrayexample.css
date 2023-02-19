@@ -1,0 +1,9 @@
+#varisu{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+#varisu div{
+    width: 200px;
+}

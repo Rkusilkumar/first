@@ -1,0 +1,40 @@
+h2{
+    text-align: center;
+    padding: 20px;
+    color: grey;
+}
+#form{
+    text-align: center;
+}
+#form input{
+    border: none;
+    background: transparent;
+    color: red;
+    border-bottom: 2px solid wheat;
+    width: 300px;
+    height: 30px;
+
+}
+#register button{
+    border: 40px;
+    width: 100px;
+    padding: 10px 20px;
+    color: wheat;
+    background-color: blue;
+}
+.register{
+    background-image: url("C:\Users\admin\react-ak\src\components\coco.jpg");
+    height: 720px;
+    background-size: cover;
+}
+form p{
+    color: red;
+    font-size: 10px;
+}
+#one{
+    text-align: center;
+    justify-content: center;
+}
+.register{
+    width: 500px;
+}
